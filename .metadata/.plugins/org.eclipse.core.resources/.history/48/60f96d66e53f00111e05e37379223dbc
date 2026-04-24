@@ -1,0 +1,11 @@
+package main;
+
+import round_robin.RoundRobin;
+import tarefa.Tarefa;
+
+public class Main {
+	public static void main(String[] args) {
+		Tarefa tarefa1, tarefa2, tarefa3;
+		RoundRobin rr = new RoundRobin();
+	}
+}

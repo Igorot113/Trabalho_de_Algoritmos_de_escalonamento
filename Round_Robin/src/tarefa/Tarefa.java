@@ -1,0 +1,28 @@
+package tarefa;
+
+//Uma classe somente para criar um objeto para ser adicionado no escalonador
+public class Tarefa {
+	public String nome;
+	public int tempo;
+
+	public Tarefa(String nome, int tempo) {
+		this.nome = nome;
+		this.tempo = tempo;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public int getTempo() {
+		return tempo;
+	}
+
+	public void setTempo(int tempo) {
+		this.tempo = tempo;
+	}
+}

@@ -1,0 +1,30 @@
+package tarefa;
+
+public class Tarefa {
+	public String nome;
+	public int tempo;
+	public boolean finalizada;
+
+	public Tarefa(String nome, boolean finalizada, int tempo) {
+		this.nome = nome;
+		this.finalizada = finalizada;
+		this.tempo = tempo;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public boolean isFinalizada() {
+		return finalizada;
+	}
+
+	public void setFinalizada(boolean finalizada) {
+		this.finalizada = finalizada;
+	}
+
+}

@@ -1,0 +1,59 @@
+package round_robin;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import tarefa.Tarefa;
+
+public class RoundRobin {
+	Tarefa tarefa, finalDaFila, primeiroDaFila;
+	public List<Tarefa> escalonador = new ArrayList<>();
+	private final int quantum = 3;
+	int tempoGasto;
+
+	/*
+	 * Função (AdicionarProcessos) para adicionar os objetos Tarefas na list que
+	 * chamei cariosamente de escalonador
+	 */
+	public void AdicionarProcessos(Tarefa tarefa) {
+		System.out.printf("\n%s adicionado no escalonador.\n", tarefa.getNome());
+		escalonador.add(tarefa);
+	}
+
+	/*
+	 * Essa função (EnviarProcessoParaCPU) so server para eu criar uma copia do
+	 * primeiro objeto da list e avisar o user como esta sendo o ciclo de vida do
+	 * processo
+	 */
+	public void EnviarProcessoParaCPU() {
+		primeiroDaFila = escalonador.getFirst();
+		System.out.printf("\n%s enviado para o processador.\n", primeiroDaFila.getNome());
+	}
+
+	/*
+	 * A Função (ProcessoEmExecucaoNaCPU) mais importante, Ela que vai possuir a
+	 * logica por traz da verificação se o processo usou sua fatia de tempo
+	 * (quantum) se usou mas nao finalizou volta para o começo da fila, se precisou
+	 * de menos tempo de quantum ou finalizou naquela fatia de tempo o processo é
+	 * finalizado e retirado de forma definitiva da list
+	 */
+	public void ProcessoEmExecucaoNaCPU() {
+		if (primeiroDaFila.getTempo() > quantum) {
+			// tempoGasto = primeiroDaFila.getTempo() - quantum;
+			// primeiroDaFila.setTempo(tempoGasto);
+			SubtraindoTempoDaTarefa();
+			finalDaFila = primeiroDaFila;
+			escalonador.removeFirst();
+			escalonador.add(finalDaFila);
+			System.out.printf("\n%s não finalizado, processo precisa de: %d de tempo para finalizar.\n",
+					primeiroDaFila.getNome(), primeiroDaFila.getTempo());
+		} else {
+			System.out.printf("\n%s finalizado\n", escalonador.getFirst().getNome());
+			escalonador.removeFirst();
+		}
+	}
+
+	public void SubtraindoTempoDaTarefa() {
+		primeiroDaFila.setTempo(primeiroDaFila.getTempo() - quantum);
+	}
+}

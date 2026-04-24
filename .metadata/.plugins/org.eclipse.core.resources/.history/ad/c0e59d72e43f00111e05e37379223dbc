@@ -1,0 +1,39 @@
+package round_robin;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import tarefa.Tarefa;
+
+public class RoundRobin {
+	Tarefa tarefa, finalDaFila, primeiroDaFila;
+	List<Tarefa> escalonador = new ArrayList<>();
+	private final int quantum = 3;
+	int tempoGasto;
+
+	public void AdicionarProcessos(Tarefa tarefa) {
+		System.out.printf("\nProcesso %s adicionado no escalonador.", tarefa.getNome());
+		escalonador.add(tarefa);
+	}
+
+	public void EnviarProcessoParaCPU() {
+		primeiroDaFila = escalonador.getFirst();
+		System.out.printf("\nProcesso %s enviado para o processador.", primeiroDaFila.getNome());
+		tempoGasto = primeiroDaFila.getTempo() - quantum;
+		primeiroDaFila.setTempo(tempoGasto);
+	}
+
+	public void ProcessoEmExecucaoNaCPU() {
+		if(escalonador.isEmpty()) {
+			System.out.println("Escalonador sem tarefas.");
+		}
+		if (primeiroDaFila.getTempo() > quantum) {
+			System.out.printf("\nProcesso não finalizado, processo precisa de: %d.", primeiroDaFila.getTempo());
+			escalonador.add(primeiroDaFila);
+			escalonador.removeFirst();
+		} else {
+			System.out.printf("\nProcesso finalizado, movendo para o proximo processo.");
+			escalonador.removeFirst();
+		}
+	}
+}

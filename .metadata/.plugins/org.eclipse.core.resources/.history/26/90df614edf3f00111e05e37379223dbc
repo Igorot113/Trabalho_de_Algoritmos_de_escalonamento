@@ -1,0 +1,18 @@
+package round_robin;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import tarefa.Tarefa;
+
+public class RoundRobin {
+	List<Tarefa> escalonador = new ArrayList<>();
+	
+	public void AdicionarProcessos(Tarefa tarefa) {
+		escalonador.add(tarefa);
+	}
+	public void EnviarParaACPU(Tarefa tarefa) {
+		System.out.println("Processo enviado para o processador");
+		escalonador.removeFirst();
+	}
+}

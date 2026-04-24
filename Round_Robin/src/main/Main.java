@@ -1,0 +1,23 @@
+package main;
+
+import round_robin.RoundRobin;
+import tarefa.Tarefa;
+
+public class Main {
+	public static void main(String[] args) {
+		RoundRobin rr = new RoundRobin();
+		Tarefa tarefa1, tarefa2, tarefa3;
+		tarefa1 = new Tarefa("Processo1", 5);
+		tarefa2 = new Tarefa("Processo2", 15);
+		tarefa3 = new Tarefa("Processo3", 3);
+
+		rr.AdicionarProcessos(tarefa1);
+		rr.AdicionarProcessos(tarefa2);
+		rr.AdicionarProcessos(tarefa3);
+
+		while (!rr.escalonador.isEmpty()) {
+			rr.EnviarProcessoParaCPU();
+			rr.ProcessoEmExecucaoNaCPU();
+		}
+	}
+}

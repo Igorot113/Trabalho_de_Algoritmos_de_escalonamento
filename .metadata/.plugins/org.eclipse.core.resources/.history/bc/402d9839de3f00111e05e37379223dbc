@@ -1,0 +1,6 @@
+package tarefa;
+
+public class Tarefa {
+	public String nome;
+	public boolean finalizada;
+}

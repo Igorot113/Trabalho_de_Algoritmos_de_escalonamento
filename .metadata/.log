@@ -9186,3 +9186,1456 @@ java.lang.IllegalArgumentException: Bad escape
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:34:39.425
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:34:39.425
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:34:39.426
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:34:39.427
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:35:27.353
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:35:27.473
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:35:51.689
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:35:51.847
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:36:24.903
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:36:25.056
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:36:25.901
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:36:26.117
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:36:42.845
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:36:43.003
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:37:22.141
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:37:22.302
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:37:25.375
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:37:25.501
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:38:48.410
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:38:48.522
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:38:58.161
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:38:58.818
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:39:02.349
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:39:02.586
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.ltk.core.refactoring 4 10009 2026-04-25 20:39:42.297
+!MESSAGE Participant 'org.eclipse.lsp4e.operations.renameParticipant' removed due to the following exception
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at org.eclipse.lsp4e.operations.rename.LSPFileOperationParticipantSupport.createFileOperationExecutor(LSPFileOperationParticipantSupport.java:120)
+	at org.eclipse.lsp4e.operations.rename.LSPRenameParticipant.initialize(LSPRenameParticipant.java:64)
+	at org.eclipse.ltk.core.refactoring.participants.RefactoringParticipant.initialize(RefactoringParticipant.java:108)
+	at org.eclipse.ltk.core.refactoring.participants.ParticipantExtensionPoint.getParticipants(ParticipantExtensionPoint.java:104)
+	at org.eclipse.ltk.core.refactoring.participants.ParticipantManager.loadRenameParticipants(ParticipantManager.java:77)
+	at org.eclipse.ltk.core.refactoring.participants.ParticipantManager.loadRenameParticipants(ParticipantManager.java:56)
+	at org.eclipse.jdt.internal.corext.refactoring.participants.ResourceModifications.getParticipants(ResourceModifications.java:300)
+	at org.eclipse.jdt.internal.corext.refactoring.rename.RenameModifications.loadParticipants(RenameModifications.java:204)
+	at org.eclipse.jdt.internal.corext.refactoring.rename.JavaRenameProcessor.loadParticipants(JavaRenameProcessor.java:44)
+	at org.eclipse.ltk.core.refactoring.participants.ProcessorBasedRefactoring.checkFinalConditions(ProcessorBasedRefactoring.java:240)
+	at org.eclipse.ltk.core.refactoring.CheckConditionsOperation.run(CheckConditionsOperation.java:87)
+	at org.eclipse.ltk.core.refactoring.CreateChangeOperation.run(CreateChangeOperation.java:116)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:208)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2505)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2533)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:90)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:123)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:39:44.057
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:39:44.057
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:39:44.258
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:39:44.258
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:40:28.030
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:40:28.142
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:40:32.214
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:40:33.221
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:54:57.837
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:54:58.399
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:56:07.452
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:56:07.566
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:57:23.273
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:57:23.672
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:57:53.733
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:57:54.355
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:58:13.741
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:58:13.929
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:58:15.733
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:58:15.894
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:58:18.490
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:58:18.802
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:58:54.301
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:58:54.873
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:59:07.111
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:59:08.147
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:59:10.974
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:59:11.186
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:59:39.071
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 20:59:39.636
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:00:45.355
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:00:45.611
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:01:02.992
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:01:04.015
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:01:04.317
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:01:05.076
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:02:02.162
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:02:02.357
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:02:07.917
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:02:08.308
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:02:38.274
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:02:38.544
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:03:47.826
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:03:47.941
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:03:48.967
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:03:49.083
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:04:13.274
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:04:13.388
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:04:26.933
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:04:27.923
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:04:53.504
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:04:54.300
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:05:38.182
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:05:39.079
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:05:39.503
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:05:40.139
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:05:47.256
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:05:47.396
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:05:55.658
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:05:56.135
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:05:57.528
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:05:57.637
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:06:39.523
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:06:39.998
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:06:40.695
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:06:41.009
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:06:50.944
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:06:51.053
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:06:56.876
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:06:57.735
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:06:57.826
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:06:58.748
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:07:35.926
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:07:36.143
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:08:00.128
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:08:00.429
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:08:18.186
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-04-25 21:08:19.118
+!MESSAGE Bad escape
+!STACK 0
+java.lang.IllegalArgumentException: Bad escape
+	at java.base/sun.nio.fs.UnixUriUtils.fromUri(UnixUriUtils.java:88)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.getPath(UnixFileSystemProvider.java:123)
+	at java.base/java.nio.file.Path.of(Path.java:201)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at org.eclipse.lsp4e.internal.files.FileSystemWatcherManager.isMatchFilePattern(FileSystemWatcherManager.java:170)
+	at org.eclipse.lsp4e.LanguageServerWrapper$WatchedFilesListener.lambda$0(LanguageServerWrapper.java:1542)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
